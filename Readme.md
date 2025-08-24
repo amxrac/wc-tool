@@ -1,4 +1,3 @@
-### about
 a command-line utility tool that counts bytes, lines, words, and characters in a text file.
 
 ### usage
