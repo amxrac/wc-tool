@@ -17,6 +17,7 @@ cargo run -- -w <filepath>
 
 # count characters
 cargo run -- -m <filepath>
+```
 
 ### Options
 
