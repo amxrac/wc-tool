@@ -28,4 +28,4 @@ cargo run -- -m <filepath>
 
 `-m`: Count characters in file
 
-No flag: Default output shows bytes, lines, and words count
+no flag: Default output shows bytes, lines, and words count
